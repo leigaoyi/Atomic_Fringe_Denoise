@@ -8,9 +8,9 @@
 
 ## Algorithms sources
 
-EnhancedPCA : <Enhanced principle component method for fringe removal in cold atom images>
+EnhancedPCA : Enhanced principle component method for fringe removal in cold atom images
   
-OFRA: <Optimized fringe removal algorithm for absorption images>
+OFRA: Optimized fringe removal algorithm for absorption images
   
-SVD: [pycoldatom](https://github.com/duguxy/pycoldatom)  <Improved detection of small atom numbers through image processing>
+SVD: [pycoldatom](https://github.com/duguxy/pycoldatom)  Improved detection of small atom numbers through image processing
 
